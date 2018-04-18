@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend Ramble - A Rough Week For The Cloud And Internet Of Things
+tags: [cloud,iot,Revolv]
 ---
 About a month ago [Revolv](http://www.revolv.com/) announced it was ending support for their Revolv home automation hub, and this week a number of sites have picked up on this, starting a discussion of just what this means for cloud computing and the Internet of Things (IoT).  What has a lot of people concerned is that, unlike many devices, the Revolv is COMPLETELY dependent on the Revolv service to do ANYTHING.  Without that service, users will on May 15th have a brick, and a non-functional home automation system.  And we're in a world where things we have purchased can stop working with little or no warning.
 
