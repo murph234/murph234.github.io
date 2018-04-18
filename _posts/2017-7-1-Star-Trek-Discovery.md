@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Star Trek: Discovery - Principle or Interest?
-tags: [cable,CBS,Star Trek: Discovery,tv]
+title: "Star Trek: Discovery - Principle or Interest?"
+tags: [cable,CBS,"Star Trek: Discovery",tv]
 ---
 The latest series in the Star Trek franchise finally has it's release date, September 24th, 2017.  As a long-time Trek fan, I'm definitely interested in the new series.  The casting looks good, the props, sets, and uniforms  we've seen in the trailers also look good.  I will say, though, the design of the Discovery we've seen so far is kinda meh.
 
