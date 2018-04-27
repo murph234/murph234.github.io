@@ -2,6 +2,8 @@
 layout: post
 title: A New Blog
 ---
+Murmerings on moving the blog.
+
 Well, been a while since my last post.  This one will be a bit meta, as I've moved the 
 blog off Blogger to a [Jekyll](https://jekyllrb.com)-based site hosted on 
 [GitHub Pages](https://pages.github.com).  I wanted to move to a 
