@@ -1,0 +1,23 @@
+{
+	"subject":"acct:chris@mastodon.mit.edu",
+	"aliases":[
+		"https://mastodon.mit.edu/@chris",
+		"https://mastodon.mit.edu/users/chris"
+	],
+	"links":[
+		{
+			"rel":"http://webfinger.net/rel/profile-page",
+			"type":"text/html",
+			"href":"https://mastodon.mit.edu/@chris"
+		},
+		{
+			"rel":"self",
+			"type":"application/activity+json",
+			"href":"https://mastodon.mit.edu/users/chris"
+		},
+		{
+			"rel":"http://ostatus.org/schema/1.0/subscribe",
+			"template":"https://mastodon.mit.edu/authorize_interaction?uri={uri}"
+		}
+	]
+}
