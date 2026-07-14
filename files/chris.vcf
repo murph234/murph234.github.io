@@ -1,8 +1,10 @@
 BEGIN:VCARD
-VERSION:2.1 
-N:Murphy;Chris 
-FN:Chris Murphy 
-TITLE:Technologist  
-URL;HOME:https://www.murphnet.org 
-EMAIL;HOME:chris@murphnet.org
+VERSION:3.0
+N:Murphy;Chris;;;
+FN:Chris Murphy
+TITLE:Technology Enthusiast and Advisor
+EMAIL;type=INTERNET:chris@murphnet.org
+URL:https://www.murphnet.org
+PHOTO:https://www.murphnet.org/images/headshot.png
+X-SOCIALPROFILE;TYPE=Mastodon:https://mastodon.mit.edu/@chris
 END:VCARD
