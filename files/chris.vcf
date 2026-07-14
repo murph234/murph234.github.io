@@ -5,6 +5,6 @@ FN:Chris Murphy
 TITLE:Technology Enthusiast and Advisor
 EMAIL;type=INTERNET:chris@murphnet.org
 URL:https://www.murphnet.org
-PHOTO:https://www.murphnet.org/images/headshot-small.png
+PHOTO;TYPE=JPEG;VALUE=URI:https://www.murphnet.org/images/headshot-small.jpg
 X-SOCIALPROFILE;TYPE=Mastodon:https://mastodon.mit.edu/@chris
 END:VCARD
